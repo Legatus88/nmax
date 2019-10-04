@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require_relative '../lib/nmax.rb'
+
+puts Nmax.return_biggest_numbers
