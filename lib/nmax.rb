@@ -1,6 +1,2 @@
-require "nmax/version"
-
-module Nmax
-  class Error < StandardError; end
-  # Your code goes here...
-end
+require_relative "./nmax/return_biggest_numbers"
+require_relative "./nmax/version"
